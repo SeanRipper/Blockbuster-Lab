@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\bin\Debug\net6.0\Blockbuster Lab.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\bin\Debug\net6.0\Blockbuster Lab.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\bin\Debug\net6.0\Blockbuster Lab.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\bin\Debug\net6.0\Blockbuster Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\bin\Debug\net6.0\Blockbuster Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\refint\Blockbuster Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\Blockbuster Lab.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Blockbuster Lab\Blockbuster Lab\obj\Debug\net6.0\ref\Blockbuster Lab.dll
